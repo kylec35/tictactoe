@@ -1,0 +1,10 @@
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.dll
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.dll
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\Xamarin.Forms.Platform.dll

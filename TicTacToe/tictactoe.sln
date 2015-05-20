@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictactoe", "tictactoe\tictactoe.csproj", "{C19CD68B-35AE-4CB3-B883-5D73EF33A817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictactoe.Droid", "Droid\tictactoe.Droid.csproj", "{3671CA4B-4B72-4469-8AE5-65780FDF10F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictactoe.UITests", "UITests\tictactoe.UITests.csproj", "{1F50E9C5-6A95-48E8-A25A-AF51A772620D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F50E9C5-6A95-48E8-A25A-AF51A772620D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F50E9C5-6A95-48E8-A25A-AF51A772620D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F50E9C5-6A95-48E8-A25A-AF51A772620D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F50E9C5-6A95-48E8-A25A-AF51A772620D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3671CA4B-4B72-4469-8AE5-65780FDF10F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3671CA4B-4B72-4469-8AE5-65780FDF10F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3671CA4B-4B72-4469-8AE5-65780FDF10F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3671CA4B-4B72-4469-8AE5-65780FDF10F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19CD68B-35AE-4CB3-B883-5D73EF33A817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19CD68B-35AE-4CB3-B883-5D73EF33A817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19CD68B-35AE-4CB3-B883-5D73EF33A817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19CD68B-35AE-4CB3-B883-5D73EF33A817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

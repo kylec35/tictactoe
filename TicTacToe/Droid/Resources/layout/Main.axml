@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent">
+    android:layout_height="fill_parent"
+    android:id="@+id/contentView"
+    android:orientation="vertical">
     <Button
         android:text=""
         android:textSize="92px"
@@ -12,7 +14,7 @@
         android:id="@+id/button1" />
     <Button
         android:text=""
-        android:textSize="20px"
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_marginTop="100px"
@@ -20,7 +22,7 @@
         android:id="@+id/button2" />
     <Button
         android:text=""
-        android:textSize="20px"
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_marginTop="100px"
@@ -28,6 +30,7 @@
         android:id="@+id/button3" />
     <Button
         android:text=""
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_marginLeft="80px"
@@ -35,7 +38,7 @@
         android:id="@+id/button4" />
     <Button
         android:text=""
-        android:textSize="20px"
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_toRightOf="@id/button4"
@@ -43,7 +46,7 @@
         android:id="@+id/button5" />
     <Button
         android:text=""
-        android:textSize="20px"
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_toRightOf="@id/button5"
@@ -51,6 +54,7 @@
         android:id="@+id/button6" />
     <Button
         android:text=""
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_marginLeft="80px"
@@ -58,7 +62,7 @@
         android:id="@+id/button7" />
     <Button
         android:text=""
-        android:textSize="20px"
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_toRightOf="@id/button7"
@@ -66,12 +70,21 @@
         android:id="@+id/button8" />
     <Button
         android:text=""
-        android:textSize="20px"
+        android:textSize="92px"
         android:layout_width="200px"
         android:layout_height="200px"
         android:layout_toRightOf="@id/button8"
         android:layout_below="@id/button6"
         android:id="@+id/button9" />
+    <Button
+        android:text="Reset"
+        android:textSize="30px"
+        android:layout_width="150px"
+        android:layout_height="75px"
+        android:layout_below="@id/button8"
+        android:layout_marginLeft="300px"
+        android:layout_marginTop="250px"
+        android:id="@+id/resetButton" />
     <TextView
         android:id="@+id/instruction"
         android:layout_width="fill_parent"
@@ -98,5 +111,25 @@
         android:text="Computer"
         android:layout_marginTop="75px"
         android:layout_marginLeft="550px"
+        android:textSize="25px" />
+    <TextView
+        android:id="@+id/computerScore"
+        android:layout_width="fill_parent"
+        android:layout_below="@id/computer"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="5px"
+        android:layout_marginLeft="450px"
+        android:textSize="25px" />
+    <TextView
+        android:id="@+id/playerScore"
+        android:layout_width="fill_parent"
+        android:layout_below="@id/player"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="5px"
+        android:layout_marginLeft="-480px"
         android:textSize="25px" />
 </RelativeLayout>

@@ -7,3 +7,12 @@ C:\Users\kconway\Documents\Projects\tictactoe\UITests\bin\Debug\Xamarin.UITest.x
 C:\Users\kconway\Documents\Projects\tictactoe\UITests\obj\Debug\tictactoe.UITests.csprojResolveAssemblyReference.cache
 C:\Users\kconway\Documents\Projects\tictactoe\UITests\obj\Debug\tictactoe.UITests.dll
 C:\Users\kconway\Documents\Projects\tictactoe\UITests\obj\Debug\tictactoe.UITests.pdb
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\bin\Debug\tictactoe.UITests.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\bin\Debug\tictactoe.UITests.pdb
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\bin\Debug\nunit.framework.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\bin\Debug\nunit.framework.xml
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\obj\Debug\tictactoe.UITests.csprojResolveAssemblyReference.cache
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\obj\Debug\tictactoe.UITests.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\UITests\obj\Debug\tictactoe.UITests.pdb

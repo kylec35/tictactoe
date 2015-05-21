@@ -1,11 +1,11 @@
-C:\Users\kconway\Documents\Projects\tictactoe\Droid\bin\Debug\tictactoe.Droid.dll
-C:\Users\kconway\Documents\Projects\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\FormsViewGroup.dll
-C:\Users\kconway\Documents\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.dll
-C:\Users\kconway\Documents\Projects\tictactoe\packages\Xamarin.Android.Support.v4.22.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll
-C:\Users\kconway\Documents\Projects\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Core.dll
-C:\Users\kconway\Documents\Projects\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
-C:\Users\kconway\Documents\Projects\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Platform.dll
-C:\Users\kconway\Documents\Projects\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\Droid\bin\Debug\tictactoe.Droid.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\tictactoe\bin\Debug\tictactoe.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\packages\Xamarin.Android.Support.v4.22.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Platform.dll
+C:\Users\kconway\Desktop\tictactoe\tictactoe\packages\Xamarin.Forms.1.4.2.6359\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll
